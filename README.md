@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Micol Peralta</h1>
+<h2 align="center">Hi 👋, I'm Micol Peralta</h2>
 
 - 👩‍💻 Full-Stack Developer
 
