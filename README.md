@@ -4,4 +4,4 @@
 
 - 🚀 My Portfolio **http://micolperalta.com/**
 
-- 📫 Contact me: **micolpa08@gmail.com**
+- 📫 Contact me: **contacto@micolperalta.com**
