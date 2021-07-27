@@ -5,3 +5,5 @@
 - 🚀 My Portfolio **http://micolperalta.com/**
 
 - 📫 Contact me: **contacto@micolperalta.com**
+
+- ✨ Learning: **IONIC 📱**
