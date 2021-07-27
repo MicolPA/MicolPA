@@ -6,4 +6,4 @@
 
 - 📫 Contact me: **contacto@micolperalta.com**
 
-- ✨ Learning: **IONIC 📱**
+- ✨ Learning: **ANGULAR / IONIC**
