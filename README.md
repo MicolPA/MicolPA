@@ -2,7 +2,7 @@
 
 - 👩‍💻 Full-Stack Developer
 
-- 🚀 My Portfolio **http://micolperalta.com/**
+- 🚀 My Portfolio **https://micolperalta.com/**
 
 - 📫 Contact me: **contacto@micolperalta.com**
 
